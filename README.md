@@ -1,2 +1,3 @@
-# example-label-checker-consumer
-An example repo which uses the label-checker GitHub Action
+# test-label-checker-consumer
+A consumer of the [label-checker](https://github.com/agilepathway/label-checker) GitHub Action, 
+used for integration testing of the label checker.
